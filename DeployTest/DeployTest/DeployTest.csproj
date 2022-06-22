@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="2.2.6" />
     <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="150.18208.0" />
     <PackageReference Include="Microsoft.VisualStudio.Services.Client" Version="16.166.0-preview" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Xamarin.Forms" Version="3.6.0.344457" />
     <PackageReference Include="Prism.Unity.Forms" Version="7.2.0.1367" />
     <PackageReference Include="Xamarin.Plugin.FilePicker" Version="2.1.34" />
