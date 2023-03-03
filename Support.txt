@@ -1,0 +1,35 @@
+Support:
+
+Thank you for using Meekou Excel Add-in for Microsoft Excel. We understand that sometimes technical issues may arise while using our add-in. To assist you with troubleshooting these issues, we have prepared this guide to provide some common solutions for problems you may encounter. If you continue to experience issues after trying these solutions, please don't hesitate to contact our support team for further assistance.
+
+Issue #1: Meekou Excel Add-in is not showing up in Microsoft Excel
+
+Solution:
+
+Check to see if Meekou Excel Add-in is properly installed. Go to the "File" tab in Excel, then select "Options" > "Add-ins". Look for Meekou Excel Add-in in the list of installed add-ins. If it's not there, you may need to reinstall the add-in.
+
+Ensure that Meekou Excel Add-in is enabled. In the same "Add-ins" window, make sure that the checkbox next to Meekou Excel Add-in is checked. If it's not, check the box and click "OK".
+
+Restart Microsoft Excel. Sometimes, simply closing and reopening Excel can resolve issues with add-ins not showing up.
+
+Issue #2: Meekou Excel Add-in is not working as expected
+
+Solution:
+
+Make sure that you're using the latest version of Meekou Excel Add-in. Check for updates in the "File" tab > "Account" > "Update Options".
+
+Check the settings of Meekou Excel Add-in. In the "File" tab > "Options" > "Add-ins" window, select Meekou Excel Add-in and click "Go". Review the settings and make sure they match your desired configuration.
+
+Try disabling and re-enabling Meekou Excel Add-in. In the "Add-ins" window, uncheck the box next to Meekou Excel Add-in, then check it again and click "OK".
+
+Check if there are any conflicting add-ins or programs. Disable other add-ins and programs that may interfere with Meekou Excel Add-in, and try using Meekou Excel Add-in again.
+
+Issue #3: Meekou Excel Add-in is Page not load
+
+Solution:
+
+If Taskpane not load, it may caused by network, please check your network and reload the page.
+
+Conclusion:
+
+We hope this troubleshooting guide has been helpful in resolving any issues you may have encountered while using Meekou Excel Add-in for Microsoft Excel. If you continue to experience issues, please don't hesitate to contact our support team for further assistance.
